@@ -6,12 +6,16 @@ Kurssi suoritettiin Q1/2024. Opettajana toimi Taru Hakulinen.
 Alla kurssikuvaus:
 
 Osaamistavoitteet
+
+
 Opintojakson suoritettuaan opiskelija osaa:
 - Asentaa Windows -palvelinkäyttöjärjestelmän ja määrittelemään palvelimen asetuksia.
 - Luoda ja määritellä toimialueen palvelimien erilaisia ominaisuuksia ja rooleja, kuten aktiivihakemiston (AD) ja ryhmäkäytännöt (GP).
 - Asettaa verkon perustoimintoja (DHCP, DNS, NAT ja TCP/IP).
 - Palvelinalustan vaatimuksia ja soveltuvuusia eri palveluille ja niiden määrittelyjä.
 - Ottaa käyttöön tyypillisimpiä palvelinkokonaisuuksia ja tuntee Windows-palvelinympäristön perusteita.
+
+
 Sisältö
 - windows palvelinarkkitehtuurit
 - palvelimen asennus ja hallinta
